@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './common/navbar/navbar.component';
 
 @NgModule({
+  //declarationsは宣言
   declarations: [
     AppComponent,
     NavbarComponent
