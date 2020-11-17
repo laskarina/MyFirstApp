@@ -1,3 +1,16 @@
+
+# SPA学習用リポジトリ
+
+deployed to Heroku
+https://myfirstapp-laskarina.herokuapp.com/ 
+
+Angular
+Bootstrap
+MangoDB（mongoose）
+Heroku
+
+---------------------------
+
 # MyFirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.5.
